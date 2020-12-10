@@ -4,7 +4,7 @@
 
 ## Author
 
-Created by Jeff Leek: [www.jtleek.com](www.jtleek.com)
+Created by Jeff Leek: [http://jtleek.com/](http://jtleek.com/)
 
 
 ## Talks
