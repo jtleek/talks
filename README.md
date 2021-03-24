@@ -9,6 +9,11 @@ Created by Jeff Leek: [http://jtleek.com/](http://jtleek.com/)
 
 ## Talks
 
+### 2021
+
+*_Jeff_: [What you can learn about human gene expression when making 70,000 RNA-seq samples easy to use
+](https://docs.google.com/presentation/d/1-M07fMf7fE4aLr_vGspFQnP26nxiWS7Z1jB0Emm7PLQ/edit?usp=sharing)
+
 ### 2020
 
 * _Jeff_: [The winding path to reproducibility in AI](https://docs.google.com/presentation/d/16VP2Dkd3Q5LnZ9gc8814QpRF4r72ZgHg0O1HyXf89Yo/edit?usp=sharing)
