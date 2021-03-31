@@ -11,13 +11,13 @@ Created by Jeff Leek: [http://jtleek.com/](http://jtleek.com/)
 
 ### 2021
 
-* _Jeff_: [Post-prediction inference](https://docs.google.com/presentation/d/1P8duLvRdmJDbNdGyEHgQ98k2zsiZ7l7mQ0CrirwimHI/edit?usp=sharing)
-* _Jeff_: [What you can learn about human gene expression when making 70,000 RNA-seq samples easy to use
+* _Jeff_: [Post-prediction inference (TorBug)](https://docs.google.com/presentation/d/1P8duLvRdmJDbNdGyEHgQ98k2zsiZ7l7mQ0CrirwimHI/edit?usp=sharing)
+* _Jeff_: [What you can learn about human gene expression when making 70,000 RNA-seq samples easy to use (VATDSI)
 ](https://docs.google.com/presentation/d/1-M07fMf7fE4aLr_vGspFQnP26nxiWS7Z1jB0Emm7PLQ/edit?usp=sharing)
 
 ### 2020
 
-* _Jeff_: [The winding path to reproducibility in AI](https://docs.google.com/presentation/d/16VP2Dkd3Q5LnZ9gc8814QpRF4r72ZgHg0O1HyXf89Yo/edit?usp=sharing)
+* _Jeff_: [The winding path to reproducibility in AI (AACR)](https://docs.google.com/presentation/d/16VP2Dkd3Q5LnZ9gc8814QpRF4r72ZgHg0O1HyXf89Yo/edit?usp=sharing)
 * _Jeff_: [Mutually intensive data science learning as an economic and public health intervention](https://docs.google.com/presentation/d/1XT0GTYLdDxn59VRF8kbWtcbNwfiEWB3RHnrcgxbvI-E/edit?usp=sharing)
 * _Jeff_: [Post-prediction inference](https://docs.google.com/presentation/d/1a85l3QOtnuO_1mjGnqEXnluk0jQXGuol_E0udQ9-fvk/edit?usp=sharing)
 * _Jeff_: [Mutually intensive data science learning as an economic and public health intervention](https://docs.google.com/presentation/d/17e8r1ZpjHmLQq49JTEV5t-wR2j-8hnOpAoxuk1_-VzU/edit?usp=sharing)
