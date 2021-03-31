@@ -11,7 +11,8 @@ Created by Jeff Leek: [http://jtleek.com/](http://jtleek.com/)
 
 ### 2021
 
-*_Jeff_: [What you can learn about human gene expression when making 70,000 RNA-seq samples easy to use
+* _Jeff_: [Post-prediction inference](https://docs.google.com/presentation/d/1P8duLvRdmJDbNdGyEHgQ98k2zsiZ7l7mQ0CrirwimHI/edit?usp=sharing)
+* _Jeff_: [What you can learn about human gene expression when making 70,000 RNA-seq samples easy to use
 ](https://docs.google.com/presentation/d/1-M07fMf7fE4aLr_vGspFQnP26nxiWS7Z1jB0Emm7PLQ/edit?usp=sharing)
 
 ### 2020
