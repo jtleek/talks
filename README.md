@@ -9,6 +9,11 @@ Created by Jeff Leek: [http://jtleek.com/](http://jtleek.com/)
 
 ## Talks
 
+### 2022
+
+* _Jeff_: [Datatrail – Biostatisticians Building Inclusive Data Science Communities
+ (UMich Social Good)](https://docs.google.com/presentation/d/1GfwTx3MCe32wNy6NDodMpDk5vJSLX1CqIo_E7ynTfq0/edit?usp=sharing)
+
 ### 2021
 
 * _Jeff_: [DataTrail - Biostatisticians building inclusive data science communities (Fred Hutch)](https://docs.google.com/presentation/d/16b2qsOiRMxQBqfqUWnIToQAhMwMvHuh82WODc38Oovc/edit?usp=sharing)
