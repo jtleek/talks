@@ -11,6 +11,7 @@ Created by Jeff Leek: [http://jtleek.com/](http://jtleek.com/)
 
 ### 2022
 
+* _Jeff_: [Population scale transcriptomics for precision oncology](https://docs.google.com/presentation/d/1sxwfP4ieBUSlvYc5WNL3I8w06J8rV6I3/edit?usp=sharing&ouid=101173740013479774353&rtpof=true&sd=true)
 * _Jeff_: [Post-prediction inference (UW)](https://docs.google.com/presentation/d/1vOaxombdaBdggtnPX1UVsAUSq6ueuwB6eE8HNZylqf4/edit?usp=sharing)
 * _Jeff_: [Post-prediction inference (Flatiron Research X)](https://docs.google.com/presentation/d/1QuEOxXoE9A55Fzt4ciBAVA99AEnRJn9jHbcKgtq_5U8/edit?usp=sharing)
 * _Jeff_: [Adventures in teaching big and small. From online Coursera courses to community based data science education](https://docs.google.com/presentation/d/1O5g1T7SjPMoIvvC1_FbaZU7vqZ_riqihXFd3Uebc_ZA/edit?usp=sharing)
