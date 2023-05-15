@@ -11,9 +11,8 @@ Created by Jeff Leek: [http://jtleek.com/](http://jtleek.com/)
 
 ## 2023
 
-
-* _Jeff_: [Population scale transcriptomics for precision oncology
-](https://docs.google.com/presentation/d/1Zuq0vopjmxhARn1vmZcUU1QbsQn8Typh/edit?usp=sharing&ouid=101173740013479774353&rtpof=true&sd=true)
+* _Jeff_: [Population scale transcriptomics for precision oncology (UW)](https://docs.google.com/presentation/d/1qZ2Inb3SeHvdpHnmiIdFpGUflJcmPBee/edit?usp=sharing&ouid=101173740013479774353&rtpof=true&sd=true)
+* _Jeff_: [Population scale transcriptomics for precision oncology (Cincinatti Children's)](https://docs.google.com/presentation/d/1Zuq0vopjmxhARn1vmZcUU1QbsQn8Typh/edit?usp=sharing&ouid=101173740013479774353&rtpof=true&sd=true)
 * _Jeff_: [Adventures in teaching data science big and small](https://docs.google.com/presentation/d/13zLvvgpd6uwy9My6dE9ww58np8xM2XdOY1W-uNYh90I/edit?usp=sharing)
 
 ### 2022
