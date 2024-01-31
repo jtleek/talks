@@ -9,6 +9,10 @@ Created by Jeff Leek: [http://jtleek.com/](http://jtleek.com/)
 
 ## Talks
 
+## 2024
+
+* _Jeff_:[Taking calculated career risks to impact the world through data science](https://docs.google.com/presentation/d/1K4vmgHlBTuCKamvbYi4UeZdMGweY52wRyo-UCaVkFwU/edit?usp=sharing)
+
 ## 2023
 * _Jeff_: [Studying gene expression at population scale with recount(Fred Hutch)](https://docs.google.com/presentation/d/16LHYHkr8OqcbOdMUSDum2_0lL4yZPZjh/edit?usp=sharing&ouid=101173740013479774353&rtpof=true&sd=true)
 * _Jeff_: [Studying gene expression at population scale with recount](https://docs.google.com/presentation/d/1wQxh9ZRn-hTebmuWkU1jiE6JN4oLmrTx/edit?usp=sharing&ouid=101173740013479774353&rtpof=true&sd=true)
