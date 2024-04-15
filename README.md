@@ -11,6 +11,7 @@ Created by Jeff Leek: [http://jtleek.com/](http://jtleek.com/)
 
 ## 2024
 
+* _Jeff_:[Building the Fred Hutch Data Science Lab](https://docs.google.com/presentation/d/15SNb8XDITvlYCbK-HBDVneyEkdoDF_8hHk3T9yv5aJw/edit?usp=sharing)
 * _Jeff_:[Taking calculated career risks to impact the world through data science](https://docs.google.com/presentation/d/1K4vmgHlBTuCKamvbYi4UeZdMGweY52wRyo-UCaVkFwU/edit?usp=sharing)
 
 ## 2023
