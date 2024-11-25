@@ -11,6 +11,7 @@ Created by Jeff Leek: [http://jtleek.com/](http://jtleek.com/)
 
 ## 2024
 
+* _Jeff_:[Post-prediction inference](https://docs.google.com/presentation/d/15akv9xqWCCh4xdaDxjFHEecZcUJNlwolT_ALaQOcdxA/edit?usp=sharing)
 * _Jeff_:[Data to impact](https://docs.google.com/presentation/d/17DtLyxHCmpBCH8ylhyn_8-Bl17T_0HVvI7LPz8_w1bM/edit?usp=sharing) 
 * _Jeff_:[Post-prediction inference](https://docs.google.com/presentation/d/1pAmPlnUqPuf1wsBTjWvHWXSkgKBqRdkBFuc6QxdnUN8/edit?usp=sharing)
 * _Jeff_:[AI in translational oncology](https://docs.google.com/presentation/d/1mg4cob2ebh7zpRPZGHgPHsHu2HzJS8xYMpg6JO4KFbU/edit?usp=sharing)
