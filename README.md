@@ -11,6 +11,7 @@ Created by Jeff Leek: [http://jtleek.com/](http://jtleek.com/)
 
 ## 2024
 
+* _Jeff_:[Building an oncology AI engine at the Fred Hutch and beyond](https://docs.google.com/presentation/d/1gnQSdqnMxr3YnKTlsXw43qLgjgA8ZeRDLz5XJJbJXeM/edit?usp=sharing)
 * _Jeff_:[(Bio)statistics in the AI age](https://docs.google.com/presentation/d/1yDs9mAf6MAdHFZAgfqpA3vDGaqyd_3gio3X252Fld6w/edit?usp=sharing)
 * _Jeff_:[Post-prediction inference](https://docs.google.com/presentation/d/15akv9xqWCCh4xdaDxjFHEecZcUJNlwolT_ALaQOcdxA/edit?usp=sharing)
 * _Jeff_:[Data to impact](https://docs.google.com/presentation/d/17DtLyxHCmpBCH8ylhyn_8-Bl17T_0HVvI7LPz8_w1bM/edit?usp=sharing) 
