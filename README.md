@@ -9,6 +9,9 @@ Created by Jeff Leek: [http://jtleek.com/](http://jtleek.com/)
 
 ## Talks
 
+## 2025
+
+* _Jeff_:[Things Hadley Wickham has taught me](https://docs.google.com/presentation/d/1-Q7RK5Yb7yVocMv_AyxCrGqji4CrE7yQ7ZFzBp9si1E/edit?usp=sharing)
 ## 2024
 
 * _Jeff_:[Building Scaling, and Using AI Engines](https://docs.google.com/presentation/d/1OH_7N5X8_5a_eRWbckG0pnCPpOFcuGCF4kvuLcgdyIc/edit?usp=sharing)
