@@ -11,6 +11,7 @@ Created by Jeff Leek: [http://jtleek.com/](http://jtleek.com/)
 
 ## 2025
 
+* _Jeff_:[Predicting future experiments](https://docs.google.com/presentation/d/14pOKE5tAuQkUN-689KHYrPmJG8uKoCJxCEgFSdG4hyE/edit?usp=sharing)
 * _Jeff_:[Things Hadley Wickham has taught me](https://docs.google.com/presentation/d/1-Q7RK5Yb7yVocMv_AyxCrGqji4CrE7yQ7ZFzBp9si1E/edit?usp=sharing)
 ## 2024
 
