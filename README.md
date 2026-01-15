@@ -9,6 +9,10 @@ Created by Jeff Leek: [http://jtleek.com/](http://jtleek.com/)
 
 ## Talks
 
+## 2026
+
+*_Jeff_:[Building, scaling, and using AI engines](https://docs.google.com/presentation/d/1iekVDJlMHQBwHsp6nN_gM3wXfy-G6_MCuuzXcXuuX8k/edit?usp=sharing)
+
 ## 2025
 
 * _Jeff_:[Predicting future experiments](https://docs.google.com/presentation/d/14pOKE5tAuQkUN-689KHYrPmJG8uKoCJxCEgFSdG4hyE/edit?usp=sharing)
