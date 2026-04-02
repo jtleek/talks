@@ -11,8 +11,8 @@ Created by Jeff Leek: [http://jtleek.com/](http://jtleek.com/)
 
 ## 2026
 
+*_Jeff_:[Building, scaling and using AI engines](https://docs.google.com/presentation/d/1HEeLWAhPYT48-PQbaq1X-2LBmKhl69XqZ6GLaCCLQWE/edit?usp=sharing)
 *_Jeff_:[Inference with predicted data (the role of public health in a world where  we have machine learned everything)](https://docs.google.com/presentation/d/13Dr7x44bNtbaquFu3qnYaJS8zbuou7s2C0-v_-moNpw/edit?usp=sharing) 
-
 *_Jeff_:[Building, scaling, and using AI engines](https://docs.google.com/presentation/d/1iekVDJlMHQBwHsp6nN_gM3wXfy-G6_MCuuzXcXuuX8k/edit?usp=sharing)
 
 ## 2025
