@@ -11,8 +11,8 @@ Created by Jeff Leek: [http://jtleek.com/](http://jtleek.com/)
 
 ## 2026
 
-*_Jeff_: [Building open infrastructure for translational AI in a cancer center](https://docs.google.com/presentation/d/1O95cPkANRbagXrZbVnsYGTaJiFJ1nNVELnLDcHSS4h8/edit?usp=sharing)
-
+* _Jeff_: [Building open infrastructure for translational AI in a cancer center](https://docs.google.com/presentation/d/1-YpNEFqVx2kHRmiWew73ePQBSHX36x6B9NPH2pBmKyc/edit?usp=sharing)
+* _Jeff_: [Building open infrastructure for translational AI in a cancer center](https://docs.google.com/presentation/d/1O95cPkANRbagXrZbVnsYGTaJiFJ1nNVELnLDcHSS4h8/edit?usp=sharing)
 *_Jeff_:[Building, scaling, and deploying AI engines (BIME)](https://docs.google.com/presentation/d/1TT8uaBXBpBbwiPsNsLDw0_eLyOU9Du5N6qYufasmwqw/edit?usp=sharing)
 * _Jeff_:[Building, scaling, and deploying AI engines (BIG NCTN)](https://docs.google.com/presentation/d/1vqpOO8UnXfVlXK48p3U2gpLha25iw_EzwA202ZF_IoI/edit?usp=sharing)
 * _Jeff_:[Building, scaling, and using AI engines](https://docs.google.com/presentation/d/1X0uatQ1eSUOOwp6rqTwQtdj-qhmWAjWc-M8RGN3f_tY/edit?usp=sharing)
