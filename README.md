@@ -11,6 +11,7 @@ Created by Jeff Leek: [http://jtleek.com/](http://jtleek.com/)
 
 ## 2026
 
+*_Jeff_: [Inference with predicted data (UMich)](https://docs.google.com/presentation/d/1AhBEyT3pFzFMjvVzgpKPMeMpSkPtKn1REscTvNkIjDc/edit?usp=sharing)
 * _Jeff_: [Building, scaling, and using AI engines in biomedicine
  (UMich GR)](https://docs.google.com/presentation/d/1yRn7Hl6bXbyJ5-r_mXf6EkKz_h7ZM6zierlstkYgNs8/edit?usp=sharing)
 * _Jeff_: [Building open infrastructure for translational AI in a cancer center](https://docs.google.com/presentation/d/1-YpNEFqVx2kHRmiWew73ePQBSHX36x6B9NPH2pBmKyc/edit?usp=sharing)
